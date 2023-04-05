@@ -1,6 +1,3 @@
-## Travel Agency -React Web Page
-
-
 ## Available Scripts
 
 In the project directory, you can run:
