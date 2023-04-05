@@ -1,16 +1,6 @@
 ## Travel Agency -React Web Page
 
 
-![home_](https://user-images.githubusercontent.com/35041156/49167642-caf05680-f303-11e8-8fed-5f0977ec07a6.png)
-![contact](https://user-images.githubusercontent.com/35041156/49167644-caf05680-f303-11e8-89e3-5bdf3bff167e.png)
-![services](https://user-images.githubusercontent.com/35041156/49167645-caf05680-f303-11e8-9565-9dcef3b85f08.png)
-![about](https://user-images.githubusercontent.com/35041156/49167646-caf05680-f303-11e8-9104-703b36a0426c.png)
-
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
